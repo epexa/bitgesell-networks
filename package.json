@@ -1,0 +1,17 @@
+{
+  "name": "bitgesell-networks",
+  "version": "1.0.0",
+  "description": "Bitgesell networks parameters",
+  "homepage": "https://bglwallet.io",
+  "keywords": ["bitgesell", "networks", "bip32", "bip39", "blockchain"],
+  "bugs": "https://github.com/epexa/bitgesell-networks/issues",
+  "author": "epexa",
+  "repository": "epexa/bitgesell-networks",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    "import": "./index.js",
+    "require": "./index.cjs"
+  }
+}
